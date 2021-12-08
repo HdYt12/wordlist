@@ -10,5 +10,3 @@ This project combines multiple english word lists and create a more complete mas
 # Running the aggregator yourself
 
 git clone https://github.com/HdYt12/wordlist.git
-cd wordlist
-ls
